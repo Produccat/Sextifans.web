@@ -51,7 +51,7 @@ div.cont-link{
 .link1{
 	color: white;
 	display: inline;
-	font-size: 16px;
+	font-size: 14px;
 	padding: 2.5px;
 	margin-left: 5px;
 	margin-right: 20px;
@@ -61,7 +61,7 @@ div.cont-link{
 .link2{
 	color: white;
 	display: inline;
-	font-size: 16px;
+	font-size: 14px;
 	margin-right: 20px;
 	margin-bottom: 5px;
 	}	
@@ -69,13 +69,14 @@ div.cont-link{
 .link3{
 	color: white;
 	display: inline;
-	font-size: 16px;
+	font-size: 14px;
 	margin-right: 0px;
 	margin-bottom: 5px;
 	}	
 	
 div.separador{
 	margin-top: 26vh;
+	position: fixed;
 	}
 	
 a{
@@ -99,19 +100,19 @@ a{
 	
 .name-p{
 	color: black;
-	font-size: 15px;
+	font-size: 12px;
 	margin-left: 5px;
 	margin-top: 5px;
 	}
 	
 .spam-p{
 	color: #3C3C3C;
-	font-size: 13px;
+	font-size: 10px;
 	}
 	
 .spam-p1{
 	color: gray;
-	font-size: 12px;
+	font-size: 10px;
 	margin-left: 5px;
 	}
 	
@@ -125,7 +126,6 @@ div.contenedor-public{
 	background-color: white;
 	backdrop-filter: blur(5px);
 	height: auto;
-	justify-content: space-between;
 	margin-top: 0px;
 	left: 0;
 	padding: 7.5px 7.5px;
